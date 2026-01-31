@@ -176,3 +176,45 @@ header .btn{
     margin-top: 16px;
     margin-bottom: 21px;
 }
+#brain-section{
+    max-width: 1360px;
+    width: 85%;
+    margin: 0 auto;
+}
+#brain-section .brain{
+    display: flex;
+    margin-top: 240px;
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+#brain-section .brain .brain-image img{
+    width: 600px;
+    height: 600px;
+}
+.brain-container .brain-captions .brain-title{
+    color: #469165;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+#brain-section .brain-container h1{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+#brain-section .brain-container .contents{
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+#brain-section .brain .points ul li{
+    list-style: none;
+    margin-bottom: 16px;
+}
+#brain-section .brain .brain-container{
+    margin-top: 102px;
+}
+#brain-section .points img{
+    width: 16.25px;
+    height: 16.25px;
+}
