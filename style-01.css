@@ -218,3 +218,39 @@ header .btn{
     width: 16.25px;
     height: 16.25px;
 }
+#enroll{
+    max-width: 1360px;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F7F6F2;
+}
+#enroll .access{
+    margin-bottom: 120px;
+}
+#enroll .access h1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 80px;
+    margin-bottom: 16px;
+}
+#enroll .access .text{
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+#enroll .access .extra{
+    font-size: 16px;
+    color: #627382;
+    padding-bottom: 80px;
+}
+#enroll .access button{
+    background-color: #469165;
+    color: #FFFFFF;
+    border-radius: 4px;
+    padding: 16.5px 16px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    width: 194px;
+    height: 52px;
+}
